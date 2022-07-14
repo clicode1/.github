@@ -28,52 +28,42 @@
 
 [Vicoky.General](https://github.com/clicode1/client-vicoky) 
 
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
 
+  
 ## COMMON
 
 ### Infraestructure
 
 ### Assets
 
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
 
+  
 ## INTERNAL
 
 ### Website
 
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
+
 
 ## EXAMPLES
 
-
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
+
 
 ## PRODUCTS
 
-
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
+
 
 ## TOOLS
 
-
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
+
 
 ## THIRT PARTY
 
-
-<div align="right">
 **[⬆ back to top](#overview)**
-</div>
+
+  
