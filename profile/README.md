@@ -1,12 +1,71 @@
-## Hi there 👋
+<h1 align="center"> WELCOLME TO CLICODE <h1>
 
-<!--
+# REPOSITORY INDEX
 
-**Here are some ideas to get you started:**
+- [CLIENTS](#clients)
+  - [Vicoky](#vicoky)
+- [COMMON](#common)
+  - [Infraestructure](#infraestructure)
+  - [Assets](#assets)
+- [INTERNAL](#internal)
+  - [Website](#website)
+- [EXAMPLES](#examples)
+- [PRODUCTS](#products)
+- [TOOLS](#tools)
+- [THIRT PARTY](#thirt-party)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# CLIENTS
+
+## Vicoky
+
+[Vicoky.General](https://github.com/clicode1/client-vicoky) 
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# COMMON
+
+## Infraestructure
+
+## Assets
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# INTERNAL
+
+## Website
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# EXAMPLES
+
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# PRODUCTS
+
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# TOOLS
+
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
+
+# THIRT PARTY
+
+
+<div align="right">
+**[⬆ back to top](#overview)**
+</div>
