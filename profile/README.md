@@ -39,23 +39,23 @@
   
 ## REPOSITORY INDEX
 
-- [CLIENTS](#clients) <img src="../main/images/handshake-solid.svg" width="24" height="24">
+- [CLIENTS](#clients) <img src="https://github.com/clicode1/.github/blob/main/images/handshake-solid.svg" width="24" height="24">
   - [Vicoky](#vicoky)
 
-- [COMMON](#common) <img src="../images/network-wired-solid.svg" width="24" height="24">
+- [COMMON](#common) <img src="https://github.com/clicode1/.github/blob/main/images/network-wired-solid.svg" width="24" height="24">
   - [Infraestructure](#infraestructure)
   - [Assets](#assets)
 
-- [INTERNAL](#internal) <img src="../images/cloud-solid.svg" width="24" height="24">
+- [INTERNAL](#internal) <img src="https://github.com/clicode1/.github/blob/main/images/cloud-solid.svg" width="24" height="24">
   - [Website](#website)
 
-- [EXAMPLES](#examples) <img src="../images/eye-solid.svg" width="24" height="24">
+- [EXAMPLES](#examples) <img src="https://github.com/clicode1/.github/blob/main/images/eye-solid.svg" width="24" height="24">
 
-- [PRODUCTS](#products) <img src="../images/suitcase-solid.svg" width="24" height="24">
+- [PRODUCTS](#products) <img src="https://github.com/clicode1/.github/blob/main/images/suitcase-solid.svg" width="24" height="24">
 
-- [TOOLS](#tools) <img src="../images/screwdriver-wrench-solid.svg" width="24" height="24">
+- [TOOLS](#tools) <img src="https://github.com/clicode1/.github/blob/main/images/screwdriver-wrench-solid.svg" width="24" height="24">
 
-- [THIRT PARTY](#thirt-party) <img src="../images/product-hunt-brands.svg" width="24" height="24">
+- [THIRT PARTY](#thirt-party) <img src="https://github.com/clicode1/.github/blob/main/images/product-hunt-brands.svg" width="24" height="24">
 
   
 
