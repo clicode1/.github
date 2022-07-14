@@ -1,5 +1,42 @@
 <h1 align="center"> WELCOLME TO CLICODE <h1>
 
+<div align="center">
+  <img width="52" height="40" alt="linkedin logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
+       href="https://www.linkedin.com/clicode"/> 
+  <img width="52" height="40" alt="instagram logo" 
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
+       href="https://www.instagram.com/cli_code">
+  <img width="52" height="40" alt="gmail logo" 
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">
+  <img width="52" height="40" alt="twitter logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
+       href="https://www.twitter.com/clicode"/>
+  <img width="52" height="40" alt="discord logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
+       href="https://www.discord.com/clicode"/>
+  <img width="52" height="40" alt="youtube logo" 
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
+       href="https://www.youtube.com/clicode"/>
+</div>
+ 
+
+<h3 align="left">We code with</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" width="52" alt="nestjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+</div>
+
+  
 ## REPOSITORY INDEX
 
 - [CLIENTS](#clients) <img src="../images/handshake-solid.svg" width="24" height="24">
@@ -67,3 +104,9 @@
 **[⬆ back to top](#overview)**
 
   
+  
+<br><br>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/undefined/count.svg?"  />
+</div>  
+
