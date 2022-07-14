@@ -1,23 +1,30 @@
 <h1 align="center"> WELCOLME TO CLICODE <h1>
 
 <div align="center">
-  <img width="52" height="40" alt="linkedin logo"  
-       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" 
-       href="https://www.linkedin.com/clicode"/> 
-  <img width="52" height="40" alt="instagram logo" 
-       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"
-       href="https://www.instagram.com/cli_code">
-  <img width="52" height="40" alt="gmail logo" 
+  <a href="https://www.linkedin.com/clicode">
+    <img width="52" height="40" alt="linkedin logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" /> 
+  </a>
+  <a href="https://www.instagram.com/cli_code">
+    <img width="52" height="40" alt="instagram logo" 
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg">
+  </a>
+  <a href="">
+    <img width="52" height="40" alt="gmail logo" 
        src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg">
-  <img width="52" height="40" alt="twitter logo"  
-       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"
-       href="https://www.twitter.com/clicode"/>
-  <img width="52" height="40" alt="discord logo"  
-       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"
-       href="https://www.discord.com/clicode"/>
-  <img width="52" height="40" alt="youtube logo" 
-       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"
-       href="https://www.youtube.com/clicode"/>
+  </a> 
+  <a href="https://www.twitter.com/clicode">
+    <img width="52" height="40" alt="twitter logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg"/>
+  </a>
+  <a href="https://www.discord.com/clicode">
+    <img width="52" height="40" alt="discord logo"  
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg"/>
+  </a>
+  <a href="https://www.youtube.com/clicode">
+    <img width="52" height="40" alt="youtube logo" 
+       src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg"/>
+  </a>
 </div>
  
 
