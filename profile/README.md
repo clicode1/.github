@@ -39,7 +39,7 @@
   
 ## REPOSITORY INDEX
 
-- [CLIENTS](#clients) <img src="../images/handshake-solid.svg" width="24" height="24">
+- [CLIENTS](#clients) <img src="../main/images/handshake-solid.svg" width="24" height="24">
   - [Vicoky](#vicoky)
 
 - [COMMON](#common) <img src="../images/network-wired-solid.svg" width="24" height="24">
